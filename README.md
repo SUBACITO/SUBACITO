@@ -1,4 +1,5 @@
-<style>
+<body>
+    <style>
     body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
@@ -163,7 +164,6 @@ h3 {
     
   }
 </style>
-<body>
     <div class="cv-container">
         <header class="header">
             <div class="header-content">
