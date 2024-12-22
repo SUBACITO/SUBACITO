@@ -3,7 +3,7 @@
         <header class="header">
             <div class="header-content">
                 <h1>Nguyễn Trần Giang Vỹ</h1>
-                <h2>Software Engineer</h2>
+                <h2>Unity Developer</h2>
             </div>
             <div class="pic-face">
                 <div class="img-container">
