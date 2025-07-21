@@ -1,94 +1,99 @@
-<body>
-    <div class="cv-container">
-        <header class="header">
-            <div class="header-content">
-                <h1>Nguyễn Trần Giang Vỹ</h1>
-                <h2>Unity Developer</h2>
-            </div>
-            <div class="pic-face">
-                <div class="img-container">
-                    <img src="img/image.png" alt="">
-                </div>
-            </div>
-        </header>
-        <div class="my-cv">
-            <aside class="sidebar">
-                <section class="contact-info">
-                    <h3>Contact</h3>
-                    <p><strong>📧</strong> subacitodev@gmail.com</p>
-                </section>
-                <section class="skills">
-                    <h3>Skills</h3>
-                    <ul>
-                        <li>JavaScript</li>
-                        <li>Java</li>
-                        <li>Python</li>
-                        <li>Vue Js</li>
-                        <li>C#</li>
-                        <li>SQL</li>
-                    </ul>
-                </section>
-                <section class="tools">
-                    <h3>Tools</h3>
-                    <ul>
-                        <li>SQL</li>
-                        <li>Unity Engine</li>
-                        <li>FUI</li>
-                    </ul>
-                </section>
-                <section class="languages">
-                    <h3>Languages</h3>
-                    <ul>
-                        <li>Vietnamese</li>
-                        <li>English</li>
-                    </ul>
-                </section>
-            </aside>
-            <main class="main-content">
-                <section class="profile-summary">
-                    <h3>Presentation</h3>
-                    <p>A dedicated and innovative software engineer with over 2 years of experience specializing in Unity game development and web application design. Passionate about leveraging technology's transformative power through continuous learning and creative problem-solving.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=subacito&label=Profile%20views&color=0e75b6&style=flat" alt="subacito" />
 </p>
-                </section>
-                <section class="experience">
-                    <h3>Experience</h3>
-                    <div class="job">
-                        <h4>Front-end web development</h4>
-                        <p class="company">ThoMi Technology Solution Company, 2021 - 2022 <a href="https://changhanna.vn/trang-chu.html">https://changhanna.vn/trang-chu.html</a></p>
-                        <ul>
-                            <li>Developed and maintained various web applications, enhancing their functionality and user experience.
-</li>
-                            <li>Improved application performance by 20%, contributing to higher user satisfaction and engagement.
-</li>
-                        </ul>
-                    </div>
-                    <div class="job">
-                        <h4>Game Developer</h4>
-                        <p class="company">Farmverse (Blockchain Competition in China), 2021 - 2022</p>
-                        <ul>
-                            <li>Utilized RPG Maker MV Tool to develop engaging game applications.</li>
-                            <li>Focused on maintaining and enhancing existing game features to improve user experience.</li>
-                        </ul>
-                    </div>
-                    <div class="job">
-                        <h4>Game Developer</h4>
-                        <p class="company">Solo - TheNone, 2024 - Present</p>
-                        <ul>
-                            <li>Developed a multiplayer game using Unity Engine and Photon Pun.</li>
-                            <li>Implemented innovative features to create an immersive gaming experience.</li>
-                        </ul>
-                    </div>
-                </section>
-                <section class="education">
-                    <h3>Education</h3>
-                    <div class="education-item">
-                        <h4>Bachelor of Information Technology</h4>
-                        <p class="institution">Lac Hong University, 2021 - 2025</p>
-                    </div>
-                </section>
-            </main>
-        </div>
-    </div>
-</body>
 
-</html>
+<!-- You can replace or remove this image if you wish -->
+<!-- ![SUBACITO](your-new-image-link-here) -->
+
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm SUBACITO</h1>
+<h3 align="center">A Passionate Full Stack Web Developer | Unity Developer | Sleeper Build</h3>
+
+<br/>
+
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
+- 🔭 I’m currently working as a **Freelancer**
+
+- 🌱 I’m continuously learning **Full Stack Development | Unity | MERN | NestJS**
+
+- 💬 Ask me about *Web development, Core Javascript, OOP, Unity, Backend APIs*
+
+- 🌎 I speak **English**
+- ⚡ About Me: I'm a *Sleeper build* 💪
+- 📍 From **Vietnam**
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<p align="center">
+
+<details>
+<summary>Languages & Tools</summary> <br>
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) 
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) 
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+</details>
+
+<details>
+<summary>Frameworks I've Worked on:</summary> <br>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</details>
+
+<details>
+<summary>Databases</summary> <br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
+
+<details>
+<summary>Applications & Tools</summary> <br>
+
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</details>
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<br />
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=subacito&show_icons=true&locale=en&theme=ambient_gradient" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=subacito&theme=ambient_gradient" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+
+</br>
+
+<p align="center">
+  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/subacito" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
