@@ -10,7 +10,7 @@
 
 <br/>
 
-<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJlcWU0a2l3ajIydDFwajZ6Y3V5Z3dqb2tjMDBhZWNjcTUxMWRnaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XsNAXQl1E8ig8MHAhf/giphy.gif">
+<img align="right" alt="coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJlcWU0a2l3ajIydDFwajZ6Y3V5Z3dqb2tjMDBhZWNjcTUxMWRnaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XsNAXQl1E8ig8MHAhf/giphy.gif">
 
 - 🔭 I’m currently working as a **Freelancer**
 
