@@ -2,28 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=subacito&label=Profile%20views&color=0e75b6&style=flat" alt="subacito" />
 </p>
 
-<!-- You can replace or remove this image if you wish -->
-<!-- ![SUBACITO](your-new-image-link-here) -->
-
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm SUBACITO</h1>
-<h3 align="center">A Passionate Full Stack Web Developer | Unity Developer | Sleeper Build</h3>
-
-<br/>
-
-<img align="right" alt="coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJlcWU0a2l3ajIydDFwajZ6Y3V5Z3dqb2tjMDBhZWNjcTUxMWRnaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XsNAXQl1E8ig8MHAhf/giphy.gif">
-
-- 🔭 I’m currently working as a **Freelancer**
-
-- 🌱 I’m continuously learning **Full Stack Development | Unity | MERN | NestJS**
-
-- 💬 Ask me about *Web development, Core Javascript, OOP, Unity, Backend APIs*
-
-- 🌎 I speak **English**
-- ⚡ About Me: I'm a *Sleeper build* 💪
-- 📍 From **Vietnam**
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
 <p align="center">
 
 <details>
